@@ -16,3 +16,17 @@
 		<br><a href="les quêtes principales.html"> Les quêtes dans Dofus</br> 
 	</body>
 	</html> site dofus.html…]()
+ [Uploading site 	h1{
+			text-align: center;
+			border: 3px green groove;
+			border-radius: 10px;
+			color: white;
+			background-color: green;
+		}
+		
+	body{
+			background-image: url("R.jpeg"); 
+			background-repeat: no-repeat;
+			background-position: center;
+		}dofus css.css…]()
+
